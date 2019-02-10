@@ -1,5 +1,5 @@
 <a id="top"></a>
-# peAk-app-schematic
+# peAk-dev-schematic
 
 This is a schematic which represents the collective agreed upon applicaiton structure of a full scale applicaiton. It was made in Adobe Illustrator, and was used as a social and technical refrence for the duration of the project.
 
