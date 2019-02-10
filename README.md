@@ -2,7 +2,7 @@
 
 ## 2/4/2019:
 
-![1.0](https://github.com/twelve-sixty/peAk-app-schematic/blob/master/assets/peAk-frames-1.0.jpg) <br>
+![1.0](https://github.com/twelve-sixty/peAk-app-schematic/blob/master/assets/peAk-frames-1.0.jpg) <br><hr>
 
 ![1.1](https://github.com/twelve-sixty/peAk-app-schematic/blob/master/assets/peAk-frames-1.1.jpg) <br>
 
