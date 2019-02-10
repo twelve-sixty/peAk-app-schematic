@@ -3,18 +3,11 @@
 
 peAk: App for snowboarders and skiers who want to consolidate their trip planning and intragroup communcation to one place.
 
-```
-Code Fellows; seattle-ja-401d2
-Project Manager: Jason Burns
-Android frontend contributors: Pablo Rosales, Kevin Rosales, Darrin Howell, Nick Crain, Jason Burns
-Python backend contributors: Fangyuan Huang, Scott Currie, Roger Huba
-```
-
 This schematic series represents the collective agreed upon applicatiton structure in development for a full scale applicaiton. It was made in Adobe Illustrator, and was used as a social and technical refrence for the duration of the project.
 
 The project itself is a remake and extension of the [peAk browser applicaiton](https://github.com/apex-trio/peAk).
 
-This version of the concept was written as a [Android App](https://github.com/twelve-sixty/peAk) with a [Django Back-end](https://github.com/twelve-sixty/peAk-backend).
+THIS version of the concept was written as a [Android App](https://github.com/twelve-sixty/peAk) with a [Django Back-end](https://github.com/twelve-sixty/peAk-backend).
 
 
 ## 2/4/2019:
