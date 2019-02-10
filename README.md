@@ -1,5 +1,7 @@
 # peAk-app-schematic
 
+This is a schematic which represents the collective agreed upon applicaiton structure of a full scale applicaiton. It was made in Adobe Illustrator, and was used as a social and technical refrence for the duration of the project.
+
 ## 2/4/2019:
 
 ![1.0](https://github.com/twelve-sixty/peAk-app-schematic/blob/master/assets/peAk-frames-1.0.jpg) <br><hr>
@@ -52,5 +54,7 @@
 
 
 ## 2/8/2019:
+
+The red here indicates pieces of the app which aren't complete. The ghosted sections represent ones that were cut due to time constraints. All other features have been completed ahead of schedule. I'm confident that if the weather had allowed us the time this would be in the play store, but I'm proud of how far we got in what was essentially 3 days and another one or two would result in a full scale app in the play store.
 
 ![5.2](https://github.com/twelve-sixty/peAk-app-schematic/blob/master/assets/peAk-frames-5.2-01.jpg) <br><hr>
