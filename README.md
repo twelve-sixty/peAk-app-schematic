@@ -58,6 +58,8 @@ This schematic series represents the collective agreed upon applicatiton structu
 
 ![5.0b](https://github.com/twelve-sixty/peAk-app-schematic/blob/master/assets/peAk-frames-5.0-omissions-01-01.jpg) <br><hr>
 
+This is the applicaion in it's most complete form:
+
 ![5.1](https://github.com/twelve-sixty/peAk-app-schematic/blob/master/assets/peAk-frames-5.1-01.jpg) <br><hr>
 
 
