@@ -3,7 +3,7 @@
 
 peAk: App for snowboarders and skiers who want to consolidate their trip planning and intragroup communcation to one place.
 
-The project itself is a remake and extension of the [peAk browser applicaiton](https://github.com/apex-trio/peAk).
+The project itself is a remake and extension of the [peAk browser applicatiton](https://github.com/apex-trio/peAk).
 
 THIS version of the concept was written as a [Android App](https://github.com/twelve-sixty/peAk) with a [Django Back-end](https://github.com/twelve-sixty/peAk-backend).
 
